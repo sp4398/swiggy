@@ -1,0 +1,11 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "food ordering app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "saurav",
+  "license": "ISC"
+}
